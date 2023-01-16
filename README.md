@@ -16,7 +16,7 @@ The examples were developed by Phoebe Piercy and Ken Deeley at MathWorks.
 The examples are provided in a MATLAB project.
 1. Double-click on the project archive (the .mlproj file) to extract the project.
 2. The example files are the live scripts within the project.
-3. The examples rely on external commodity data provided by the World Bank. See the instructions in the example file S01_DataProcessing.mlx for downloading this data.
+3. The examples rely on external commodity data provided by the World Bank. The example file `S01_DataProcessing.mlx` downloads this data, and requires an internet connection.
 
 ### [MathWorks&reg;](https://www.mathworks.com) Product Requirements
 
