@@ -14,13 +14,14 @@ The examples were developed by Phoebe Piercy and Ken Deeley at MathWorks.
 
 ## Installation and Getting Started
 The examples are provided in a MATLAB project.
-1. Double-click on the project file (`Commodities.prj`) to open the project.
-2. The example files are the live scripts within the project.
+1. Double-click on the project archive (`Commodities.mlproj`) to extract it using MATLAB.
+2. With MATLAB open, navigate to the newly-created project folder and double-click on the project file (`Commodities.prj`) to open the project.
+3. The example files are the live scripts within the project.
    - `S01_DataProcessing.mlx`: This script imports and processes the data for subsequent modelling.
    - `S02_TrendDecomposition.mlx`: This script clusters the commodities based on trend analysis.
    - `S03_NonParametricVolatility`: This script performs nonparametric volatility estimates and further clustering on the commodities.
    - `S04_ModelBasedVolatility`: This script forecasts volatility using time-series models for the principal components of the volatility.
-3. The examples rely on external commodity data provided by the World Bank. The example file `S01_DataProcessing.mlx` downloads this data, and requires an internet connection.
+4. The examples rely on external commodity data provided by the World Bank. The example file `S01_DataProcessing.mlx` downloads this data, and requires an internet connection.
 
 ### [MathWorks&reg;](https://www.mathworks.com) Product Requirements
 
