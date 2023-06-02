@@ -28,10 +28,10 @@ The examples are provided in a MATLAB project.
 These examples were developed for MATLAB release R2022b or later.
 - [MATLAB&reg;](https://www.mathworks.com/products/matlab.html)
 - [Statistics and Machine Learning Toolbox&trade;](https://www.mathworks.com/products/statistics.html)
-- [Econometrics Toolbox&trade;](https://mathworks.com/products/econometrics.html)
-- [Datafeed Toolbox&trade;](https://mathworks.com/products/datafeed.html)
-- [Optimization Toolbox&trade;](https://mathworks.com/products/optimization.html)
-- [Financial Toolbox&trade;](https://mathworks.com/products/finance.html)
+- [Econometrics Toolbox&trade;](https://www.mathworks.com/products/econometrics.html)
+- [Datafeed Toolbox&trade;](https://www.mathworks.com/products/datafeed.html)
+- [Optimization Toolbox&trade;](https://www.mathworks.com/products/optimization.html)
+- [Financial Toolbox&trade;](https://www.mathworks.com/products/finance.html)
 
 ## License
 The license for this entry is available in the [license.txt](license.txt) file in this GitHub repository.
