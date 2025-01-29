@@ -1,8 +1,7 @@
 # Commodity Volatility Modelling
 
-[![View Climate Examples: Commodity Volatility Modelling on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/123335-climate-examples-commodity-volatility-modelling)
-
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/climate-examples-commodity-volatility&project=Commodities.prj&file=S01_DataProcessing.mlx)
+[![View Climate Examples: Commodity Volatility Modelling on File Exchange](readme/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/123335-climate-examples-commodity-volatility-modelling)
+[![Open in MATLAB Online](readme/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/climate-examples-commodity-volatility&project=Commodities.prj&file=S01_DataProcessing.mlx)
 
 Modelling and forecasting volatility is a common task in many financial applications. This collection of examples analyzes, models, and forecasts the volatility associated with a collection of soft commodities.
 
@@ -12,7 +11,7 @@ The examples in this collection are designed to showcase a range of statistical 
 
 The examples were developed by Phoebe Piercy and Ken Deeley at MathWorks.
 
-![](Tea.png)
+![](readme/Tea.png)
 
 ## Installation and Getting Started
 The examples are provided in a MATLAB project.
@@ -38,7 +37,7 @@ These examples were developed for MATLAB release R2022b or later.
 ## License
 The license for this entry is available in the [license.txt](license.txt) file in this GitHub repository.
 
-Copyright 2022-2023 The MathWorks, Inc.
+Copyright 2022-2025 The MathWorks, Inc.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
