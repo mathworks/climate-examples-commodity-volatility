@@ -122,7 +122,7 @@ if getenv( "GITHUB_ACTIONS" ) == "true"
         "match the current Git tag number (%s).", ...
         versionString, gitTagNumber )
     % Define stable name for GitHub.
-    stableName = replace( meta.ToolboxName, "-", "_" ) + ".mltbx";
+    stableName = replace( meta.ToolboxName, " ", "_" ) + ".mltbx";
     meta.OutputFile = fullfile( projectRoot, "releases", stableName );
 else
     % Include the version number in the toolbox file name.
