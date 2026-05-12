@@ -1,3 +1,5 @@
 # List of untracked files to ignore
+tbx/commodities/CUUR0000SA0R.csv
+tbx/commodities/Commodities.mat
 .buildtool/
 releases/
