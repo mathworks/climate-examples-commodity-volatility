@@ -1,0 +1,12 @@
+{
+    "ToolboxName":"Commodity Volatility Modelling",
+    "Identifier":"ac4d9cc0-824e-445d-8937-fe0dc6dd430f",
+    "Summary":"Analyze, model, and forecast the volatility associated with a collection of soft commodities",
+    "Description":"This toolbox contains a collection of examples for analyzing, modelling, and forecasting the volatility associated with a collection of soft commodities.",
+    "AuthorCompany":"MathWorks",
+    "AuthorName":"Ken Deeley, Phoebe Piercy",
+    "AuthorEmail":"kdeeley@mathworks.com",
+    "ToolboxFolder":"./tbx",
+    "ToolboxMatlabPath": ["./tbx", "./tbx/commodities"],
+    "MinimumMatlabRelease":"R2025a"
+}

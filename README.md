@@ -1,7 +1,7 @@
 # Commodity Volatility Modelling
 
 [![View Climate Examples: Commodity Volatility Modelling on File Exchange](readme/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/123335-climate-examples-commodity-volatility-modelling)
-[![Open in MATLAB Online](readme/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/climate-examples-commodity-volatility&project=Commodities.prj&file=S01_DataProcessing.mlx)
+[![Open in MATLAB Online](readme/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/climate-examples-commodity-volatility&project=Commodities.prj&file=tbx/commodities/S01_DataProcessing.m)
 
 Modelling and forecasting volatility is a common task in many financial applications. This collection of examples analyzes, models, and forecasts the volatility associated with a collection of soft commodities.
 
@@ -14,19 +14,19 @@ The examples were developed by Phoebe Piercy and Ken Deeley at MathWorks.
 ![](readme/Tea.png)
 
 ## Installation and Getting Started
-The examples are provided in a MATLAB project.
-1. Double-click on the project archive (`Commodities.mlproj`) to extract it using MATLAB.
-2. With MATLAB open, navigate to the newly-created project folder and double-click on the project file (`Commodities.prj`) to open the project.
-3. The example files are the live scripts within the project.
-   - `S01_DataProcessing.mlx`: This script imports and processes the data for subsequent modelling.
-   - `S02_TrendDecomposition.mlx`: This script clusters the commodities based on trend analysis.
+The examples are provided as a [MATLAB toolbox](https://www.mathworks.com/help/matlab/matlab_prog/create-and-share-custom-matlab-toolboxes.html).
+1. Download the toolbox installer (the `Commodity_Volatility_Modelling.mltbx` file) from the `Releases` section on GitHub.
+2. Double-click on the `Commodity_Volatility_Modelling.mltbx` file to install the toolbox.3. 
+3. The example files are the following live scripts.
+   - `S01_DataProcessing`: This script imports and processes the data for subsequent modelling.
+   - `S02_TrendDecomposition`: This script clusters the commodities based on trend analysis.
    - `S03_NonParametricVolatility`: This script performs nonparametric volatility estimates and further clustering on the commodities.
    - `S04_ModelBasedVolatility`: This script forecasts volatility using time-series models for the principal components of the volatility.
-4. The examples rely on external commodity data provided by the World Bank. The example file `S01_DataProcessing.mlx` downloads this data, and requires an internet connection.
+4. The examples rely on external commodity data provided by the World Bank. The example file `S01_DataProcessing` downloads this data, and requires an internet connection.
 
 ### [MathWorks&reg;](https://www.mathworks.com) Product Requirements
 
-These examples were developed for MATLAB release R2022b or later.
+This example requires MATLAB R2025a or a later release.
 - [MATLAB&reg;](https://www.mathworks.com/products/matlab.html)
 - [Statistics and Machine Learning Toolbox&trade;](https://www.mathworks.com/products/statistics.html)
 - [Econometrics Toolbox&trade;](https://www.mathworks.com/products/econometrics.html)
@@ -37,7 +37,7 @@ These examples were developed for MATLAB release R2022b or later.
 ## License
 The license for this entry is available in the [license.txt](license.txt) file in this GitHub repository.
 
-Copyright 2022-2025 The MathWorks, Inc.
+Copyright 2022-2026 The MathWorks, Inc.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
