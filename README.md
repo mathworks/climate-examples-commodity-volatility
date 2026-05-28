@@ -2,6 +2,7 @@
 
 [![View Climate Examples: Commodity Volatility Modelling on File Exchange](readme/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/123335-climate-examples-commodity-volatility-modelling)
 [![Open in MATLAB Online](readme/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/climate-examples-commodity-volatility&project=Commodities.prj&file=tbx/commodities/S01_DataProcessing.m)
+[![Commodity Volatility Modelling Actions](https://github.com/mathworks/climate-examples-commodity-volatility/actions/workflows/commodities-ci.yml/badge.svg)](https://github.com/mathworks/climate-examples-commodity-volatility/actions/workflows/commodities-ci.yml)
 
 Modelling and forecasting volatility is a common task in many financial applications. This collection of examples analyzes, models, and forecasts the volatility associated with a collection of soft commodities.
 
