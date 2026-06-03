@@ -17,7 +17,7 @@ The examples were developed by Phoebe Piercy and Ken Deeley at MathWorks.
 ## Installation and Getting Started
 The examples are provided as a [MATLAB toolbox](https://www.mathworks.com/help/matlab/matlab_prog/create-and-share-custom-matlab-toolboxes.html).
 1. Download the toolbox installer (the `Commodity_Volatility_Modelling.mltbx` file) from the `Releases` section on GitHub.
-2. Double-click on the `Commodity_Volatility_Modelling.mltbx` file to install the toolbox.3. 
+2. Double-click on the `Commodity_Volatility_Modelling.mltbx` file to install the toolbox.
 3. The example files are the following live scripts.
    - `S01_DataProcessing`: This script imports and processes the data for subsequent modelling.
    - `S02_TrendDecomposition`: This script clusters the commodities based on trend analysis.
