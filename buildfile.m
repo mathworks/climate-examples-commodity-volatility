@@ -48,7 +48,7 @@ plan("package").Dependencies = "doc";
 end % buildfile
 
 function name = tbxname()
-%tbxname Toolbox folder name
+%TBXNAME Toolbox folder name.
 
 name = "commodities";
 

@@ -1,5 +1,5 @@
 % Commodity Volatility Modelling
-% Version 1.0.6 (R2026a) 12-May-2026
+% Version 1.0.7 (R2026a) 03-Jun-2026
 %
 % * S01_DataProcessing: Imports and processes the data for subsequent
 %   modelling
